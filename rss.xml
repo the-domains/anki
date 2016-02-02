@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[anki]]></title>
         <description><![CDATA[anki]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 22:44:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 22:52:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc5d465d-a8f5-444e-9a39-7c61b3d74167.jpg">]]></description>
+            <link>https://thegrid.ai/anki/b21e6f8b-8a13-44a5-aca2-16f9124da330/index.html</link>
+            <guid isPermaLink="false">b21e6f8b-8a13-44a5-aca2-16f9124da330</guid>
+            <pubDate>Tue, 02 Feb 2016 22:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/655631b1-1840-43c1-aa62-c7602b2ffb16.JPG">]]></description>
-            <link>undefined4a579c2f-ec27-4697-a09c-af8e845ae4ee/index.html</link>
+            <link>https://thegrid.ai/anki/4a579c2f-ec27-4697-a09c-af8e845ae4ee/index.html</link>
             <guid isPermaLink="false">4a579c2f-ec27-4697-a09c-af8e845ae4ee</guid>
             <pubDate>Tue, 02 Feb 2016 22:43:37 GMT</pubDate>
         </item>
